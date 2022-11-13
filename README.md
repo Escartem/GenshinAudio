@@ -37,7 +37,7 @@ However for most of the files the `list` marker is not here along with filename
 
 ![i2](https://user-images.githubusercontent.com/43405304/201538207-9bb88974-cf08-47e1-9a8c-8a6d0a7b314b.png)
 
-I'm no unity expert but I guess the filenames might be mapped somewhere else and references through their offset.
+I'm no unity expert but I guess the filenames might be mapped somewhere else and referenced through their offset.
 
 If you are interested, here is the script I used with quickBMS :
 
