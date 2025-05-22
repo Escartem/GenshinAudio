@@ -1,3 +1,5 @@
+# this repo is not updated anymore, check [here for new content](https://github.com/umaichanuwu/GenshinLinks). You can still create issues or discussions post though to ask for something
+---
 # GenshinAudio (also see : [GenshinTextures](https://github.com/Escartem/GenshinTextures) | [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes))
 All audio extracted from Genshin Impact, music, voicelines and everything else
 
